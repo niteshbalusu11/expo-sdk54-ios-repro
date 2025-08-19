@@ -55,6 +55,8 @@ PODS:
     - ReactCommon/turbomodule/core
     - ReactNativeDependencies
     - Yoga
+  - ExpoSystemUI (6.0.2):
+    - ExpoModulesCore
   - FBLazyVector (0.81.0)
   - hermes-engine (0.81.0):
     - hermes-engine/Pre-built (= 0.81.0)
@@ -1673,6 +1675,7 @@ DEPENDENCIES:
   - ExpoFont (from `../node_modules/expo-font/ios`)
   - ExpoKeepAwake (from `../node_modules/expo-keep-awake/ios`)
   - ExpoModulesCore (from `../node_modules/expo-modules-core`)
+  - ExpoSystemUI (from `../node_modules/expo-system-ui/ios`)
   - FBLazyVector (from `../node_modules/react-native/Libraries/FBLazyVector`)
   - hermes-engine (from `../node_modules/react-native/sdks/hermes-engine/hermes-engine.podspec`)
   - RCTDeprecation (from `../node_modules/react-native/ReactApple/Libraries/RCTFoundation/RCTDeprecation`)
@@ -1755,6 +1758,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/expo-keep-awake/ios"
   ExpoModulesCore:
     :path: "../node_modules/expo-modules-core"
+  ExpoSystemUI:
+    :path: "../node_modules/expo-system-ui/ios"
   FBLazyVector:
     :path: "../node_modules/react-native/Libraries/FBLazyVector"
   hermes-engine:
@@ -1898,6 +1903,7 @@ SPEC CHECKSUMS:
   ExpoFont: 450fe120947a756f322c8507311f21e008263b96
   ExpoKeepAwake: b82838a919ea49839c9f65a73dee861fc217c589
   ExpoModulesCore: f0c4845e3e55a1f949e08867929c1b8fe5818356
+  ExpoSystemUI: a2767d0a9adb80f7da614e908913933e9fffffd2
   FBLazyVector: ab4b9b95d08c7d60f758a8ec05e83803eea069b4
   hermes-engine: e7491a2038f2618c8cd444ed411a6deb350a3742
   RCTDeprecation: 368edec96c3f4e20f89b5ee10b694e2103b33511
