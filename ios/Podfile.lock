@@ -1,7 +1,7 @@
 PODS:
-  - EXConstants (18.0.2):
+  - EXConstants (18.0.3):
     - ExpoModulesCore
-  - Expo (54.0.0-preview.4):
+  - Expo (54.0.0-preview.5):
     - ExpoModulesCore
     - hermes-engine
     - RCTRequired
@@ -32,7 +32,7 @@ PODS:
     - ExpoModulesCore
   - ExpoKeepAwake (15.0.2):
     - ExpoModulesCore
-  - ExpoModulesCore (3.0.4):
+  - ExpoModulesCore (3.0.5):
     - hermes-engine
     - RCTRequired
     - RCTTypeSafety
@@ -1897,12 +1897,12 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
 SPEC CHECKSUMS:
-  EXConstants: c25a6101d03ce9a510b2192815a9ce6b19f650fb
-  Expo: 4adde10299b1ae98d6df773e42923f37d578b70a
+  EXConstants: cbc1106645354d0030004773b404503d0c47b3a3
+  Expo: 368693932342ead1d8e309f8327595e87d63f0ad
   ExpoAsset: b310d48f0c145637a1d8eac508aac83bcc6a3f5e
   ExpoFont: 450fe120947a756f322c8507311f21e008263b96
   ExpoKeepAwake: b82838a919ea49839c9f65a73dee861fc217c589
-  ExpoModulesCore: f0c4845e3e55a1f949e08867929c1b8fe5818356
+  ExpoModulesCore: d0629cc9f8943d683575ab7ecb765e5a7f7b4712
   ExpoSystemUI: a2767d0a9adb80f7da614e908913933e9fffffd2
   FBLazyVector: ab4b9b95d08c7d60f758a8ec05e83803eea069b4
   hermes-engine: e7491a2038f2618c8cd444ed411a6deb350a3742
