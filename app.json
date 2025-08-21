@@ -9,6 +9,9 @@
     },
     "ios": {
       "bundleIdentifier": "com.anonymous.my-app"
+    },
+    "android": {
+      "package": "com.anonymous.myapp"
     }
   }
 }
